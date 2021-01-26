@@ -1,2 +1,2 @@
-# Fromatiranje-teksta
+# Formatiranje-teksta
 Neke osnovne funkcije za formatiranje teksta u html-u
