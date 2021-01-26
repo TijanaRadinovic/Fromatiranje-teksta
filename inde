@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+<head>
+<title>Naziv stranice</title>
+<meta charset ="utf-8">
+</head>
+<body>
+<p>Lorem ipsum dolor sit amet, <b>consectetur adipiscing elit.</b> Etiam posuere feugiat sapien, 
+blandit suscipit augue <i>consectetur eu. Donec varius</i> turpis nec nunc accumsan mattis. <strong>Nunc bibendum blan
+dit finibus</strong>. Mauris pellentesque <del>neque</del> quis urna congue faucibus. Vestibulum <em>interdum mi </em>ac erat malesuada ve
+nenatis. Fusce a <ins>ante in </ins>ipsum vulputate <u>molestie vitae </u>auctor risus. Nunc malesuada eros sit amet velit lacinia porttitor. <small>
+Nullam</small> non tortor quis tortor <mark>luctus tristique</mark> sit amet a neque. Interdum <big>et malesuada </big>fames acante ipsum primis in 
+faucibus. Mauris rhoncus arcu vitae libero 1m<sup>2</sup> hendrerit, vitae tempus H<sub>2</sub>O arcu tristique. Aliquam bibendum imperdiet tellus
+vitae egestas.</p>
+</body>
+</html>
